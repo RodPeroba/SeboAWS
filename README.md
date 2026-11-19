@@ -2,6 +2,8 @@
 Aluno: Rodrigo Peroba de Souza
 
 O trabalho pede para que se crie um sistema serveless utilizando a AWS e simulando um sebo, o usuário pede o livro pela interface e é notificado por email e pela interface caso o livro esteja disponivel, caso o livro não esteja disponivel, o usuário é adicionado a lista de espera e quando o livro pedido for adicionado ao inventário, ele recebe um email avisando que o livro está disponível
+    
+Há um diagrama do esquema nos arquivos como .png
 
 O que foi feito:
 
